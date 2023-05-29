@@ -1,0 +1,58 @@
+.whole {
+    font-family: "Raleway", sans-serif;
+  }
+  .date {
+    position: relative;
+    right: 30px;
+  }
+  .date2 {
+    position: relative;
+  }
+  .temp {
+    position: relative;
+    right: 40px;
+    font-size: 23px;
+  }
+  .temp2 {
+    position: relative;
+    right: 15px;
+  }
+  .drop {
+    position: relative;
+    right: 55px;
+  }
+  .drop2 {
+    position: relative;
+    right: 24px;
+  }
+  .wind {
+    position: relative;
+    right: 52px;
+    font-size: 30px;
+  }
+  .wind2 {
+    position: relative;
+    right: 27px;
+  }
+  .card-header {
+    font-size: xx-large;
+  }
+  .card-body {
+    background-color: #f8f8f9;
+  }
+  .zero {
+    background-color: rgb(210, 216, 221);
+  }
+  .one {
+    background-color: rgb(236, 233, 233);
+  }
+  .two {
+    background-color: rgb(236, 233, 233);
+  }
+  .three {
+    background-color: rgb(236, 233, 233);
+  }
+  .four {
+    background-color: rgb(236, 233, 233);
+  }
+  
